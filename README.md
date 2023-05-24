@@ -9,7 +9,7 @@ npm install -g meteor
  ## Installation
 
 ```bash
-git clone git@github.com:yosribubo/meteor-react-message-ssr.git
+git clone git@github.com:JSTop1Coder/meteor-react-message-ssr.git
 cd meteor-react-message-ssr
 meteor npm install
 meteor
